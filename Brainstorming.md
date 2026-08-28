@@ -30,8 +30,14 @@ Potentially a third script/exposed port that just creates a misconfigured local 
 The first part of the challenge is to sniff the packets and get a flag out.
 The second part is to 
 
+At some point you recover a text file that talks about the difference between surface, deep and dark web. 
+
 ### Challenge Topic Sections
 
+File headers?
+Hexadecimal?
+Dorking?
+fotoforensics.com
 
 
 ### Relevant Software
